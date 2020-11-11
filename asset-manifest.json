@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/acme-demo/static/css/main.61c1f5ce.chunk.css",
+    "main.js": "/acme-demo/static/js/main.45a9c57f.chunk.js",
+    "main.js.map": "/acme-demo/static/js/main.45a9c57f.chunk.js.map",
+    "runtime-main.js": "/acme-demo/static/js/runtime-main.ebf58e68.js",
+    "runtime-main.js.map": "/acme-demo/static/js/runtime-main.ebf58e68.js.map",
+    "static/js/2.1c7ed1ab.chunk.js": "/acme-demo/static/js/2.1c7ed1ab.chunk.js",
+    "static/js/2.1c7ed1ab.chunk.js.map": "/acme-demo/static/js/2.1c7ed1ab.chunk.js.map",
+    "static/js/3.e105fbd5.chunk.js": "/acme-demo/static/js/3.e105fbd5.chunk.js",
+    "static/js/3.e105fbd5.chunk.js.map": "/acme-demo/static/js/3.e105fbd5.chunk.js.map",
+    "index.html": "/acme-demo/index.html",
+    "static/css/main.61c1f5ce.chunk.css.map": "/acme-demo/static/css/main.61c1f5ce.chunk.css.map",
+    "static/js/2.1c7ed1ab.chunk.js.LICENSE.txt": "/acme-demo/static/js/2.1c7ed1ab.chunk.js.LICENSE.txt",
+    "static/media/search.24a11ef4.svg": "/acme-demo/static/media/search.24a11ef4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ebf58e68.js",
+    "static/js/2.1c7ed1ab.chunk.js",
+    "static/css/main.61c1f5ce.chunk.css",
+    "static/js/main.45a9c57f.chunk.js"
+  ]
+}
